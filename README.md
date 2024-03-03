@@ -17,6 +17,10 @@ El microcontrolador que utilizaremos es el ya comentado en la introducción ESP3
   - Apagar led
   - Espera de 500 milisegundos
 ## 1.5 Código
-## 1.6 Responder a la siguiente pregunta en el programa que se ha realizado cual es el tiempo libre que tiene el procesador ?
-Si definimos el tiempo libre que tiene el procesador como el tiempo donde el procesador no ejecuta ninguna instrucción
+## 1.6 Diagrama de flujo
 ![P1 DIAGRAMA FLUJO ](https://github.com/PauReyes999/P1/assets/160532556/fbae62aa-576c-42d4-9d57-0dce936dfb83)
+## 1.7 Diagrama de tiempo
+![P1 DTIEMPO](https://github.com/PauReyes999/P1/assets/160532556/d5f41c9f-a6f7-4410-b183-2ba94468facd)
+## 1.8 En el programa que se ha realizado cual es el tiempo libre que tiene el procesador ?
+El tiempo libre del procesador es de 500ms, ya que el delay entre el estado ON y OFF es equivalente a ese tiempo.
+
