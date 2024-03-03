@@ -6,7 +6,7 @@ El microcontrolador que utilizaremos es el ya comentado en la introducción ESP3
 ### 1.2 Funcionalidad de la práctica
 1. Iniciar pin de led como salida
 2. Bucle infinito
-  - Encender led
+  -   Encender led
   - Espera de 500 milisegundos
   - Apagar led
   - Espera de 500 milisegundos
